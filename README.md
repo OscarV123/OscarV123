@@ -75,9 +75,6 @@ Otras herramientas que he visto durante mi carrera universitaria.
     </td>
   </tr>
 </table>
-<br>
-
-
 
 ## Redes sociales 🌐:
 Conecta conmigo en LinkedIn, explora mi contenido musical, o contáctame para colaboraciones y proyectos de desarrollo o música.
