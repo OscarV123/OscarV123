@@ -70,7 +70,46 @@ Otras herramientas que he visto durante mi carrera universitaria.
       <a href="https://www.credential.net/64daa244-2617-4b4f-a52c-b7f18a1dc72c" target="_blank" style="text-decoration: none; color: white;">
         <strong>Deep Learning: Mastering Neural Networks</strong><br>
         <em>MIT xPRO — Jun 2025</em><br>
-        <code>64daa244-2617-4bf4-a52c-b7f18a1dc72c</code>
+      </a>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
+      <a href="https://coursera.org/share/6e9d52ba610bacb2851063ff5984adec" target="_blank" style="text-decoration: none; color: white;">
+        <strong>Generación de IA (Generative AI Fundamentals Specialization)</strong><br>
+        <em>IBM / Coursera — 2026</em><br>
+      </a>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
+      <a href="https://coursera.org/share/dc9ff5992737353003371f93250c70de" target="_blank" style="text-decoration: none; color: white;">
+        <strong>Especialización en Python (Python for Everybody Specialization)</strong><br>
+        <em>University of Michigan / Coursera — 2026</em><br>
+      </a>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
+      <a href="https://coursera.org/share/f68a687c00823a14906802f8f5a2c261" target="_blank" style="text-decoration: none; color: white;">
+        <strong>Especialización en Python (Python for Everybody Specialization)</strong><br>
+        <em>University of California, Davis / Coursera — 2026</em><br>
+      </a>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td style="padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
+      <a href="https://drive.google.com/file/d/1LRGGWP8XcBQooL14MWra6XxY1htOV0KZ/view?usp=sharing" target="_blank" style="text-decoration: none; color: white;">
+        <strong>Modelamiento de Datos</strong><br>
+        <em>Sistemas UNI - Universidad Nacional de Ingeniería — 2024</em><br>
       </a>
     </td>
   </tr>
