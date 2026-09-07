@@ -11,7 +11,7 @@ Deseo especializarme en el ecosistema de **IA con Python**, pero mi formación e
 - 🛠️ **Proyectos Recientes:** He desarrollado y desplegado aplicaciones full-stack con Python:<br>
     - RAG (Retrieval-augmented generation): [Arquitectura RAG para el análisis inteligente de reportes financieros públicos de Alicorp.](https://github.com/OscarV123/alicorp-financial-rag)<br>
     - Visión computarizada: [Clasificador de 10 clases de imagenes con un modelo con fine-tuning en un modelo ResNet18 pre-entrenado](https://github.com/OscarV123/image-classification-resnet18)
-- 🎯 **Objetivo personal:** Aplicar modelos avanzados de IA para resolver problemas complejos en diversos sectores industriales, con la visión a largo plazo de contribuir a la investigación y el avance científico de esta rama de la TI.
+- 🎯 **Objetivo personal:** Aplicar modelos avanzados de IA para resolver problemas complejos en diversos sectores.
 
 ## Tecnologias 💻:
 Tecnologías que domino y con las que he construido mis proyectos principales:
